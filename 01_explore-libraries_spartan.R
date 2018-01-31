@@ -1,3 +1,9 @@
+#' ---
+#' github_document
+#' ---
+
+
+
 #' Which libraries does R search for packages?
 
 library(tidyverse)
