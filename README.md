@@ -1,4 +1,4 @@
 # explore-libraries
 Rconf2018 what they didn't teach you workshop
 
-Adding edits
+Making a new edit from github itself!
